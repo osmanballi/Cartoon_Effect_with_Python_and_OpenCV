@@ -4,9 +4,9 @@
 ![Cartoon Image](https://raw.githubusercontent.com/osmanballi/Cartoon_Effect_with_Python_and_OpenCV/main/cartoon.jpg)
 
 ### Source: 
-####http://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/
-####https://docs.opencv.org/master/d4/d86/group__imgproc__filter.html#ga9d7064d478c95d60003cf839430737ed
-####https://docs.opencv.org/master/d1/d5c/tutorial_py_kmeans_opencv.html
+http://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/
+https://docs.opencv.org/master/d4/d86/group__imgproc__filter.html#ga9d7064d478c95d60003cf839430737ed
+https://docs.opencv.org/master/d1/d5c/tutorial_py_kmeans_opencv.html
 
 
 ```python
